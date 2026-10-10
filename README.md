@@ -300,4 +300,4 @@ The test suite covers registration, login, authentication guards, structured fee
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-Before publishing, replace any placeholder such as `YOUR NAME` in the license with the appropriate copyright holder.
+
