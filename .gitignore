@@ -8,3 +8,9 @@ venv/
 .vscode/
 *.egg-info/
 .DS_Store
+node_modules/
+scratch/
+demo.db
+package*.json
+
+
